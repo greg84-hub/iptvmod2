@@ -1,5 +1,5 @@
 module.exports={
-    id: "org.community.YourIPTV",
+    id: "org.community.homescreen",
     version: "1.0.1",
     name: "Home Sceen IPTV",
     logo: "https://dl.strem.io/addon-logo.png",
