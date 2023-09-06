@@ -85,9 +85,9 @@ async function getManifest(url) {
         }
 
     const manifest = {
-        id:`org.community.${obj.domainName}` || "org.community.youriptv",
+        id:`org.community.${obj.domainName}` || "org.community.homescreen",
         version:"1.0.0",
-        name:obj.domainName + " IPTV" || "Your IPTV",
+        name:obj.domainName + " IPTV" || "homescreen",
         description:`You will access to your ${obj.domainName} IPTV with this addon!`,
         idPrefixes:[obj.idPrefix],
         resources:["catalog","meta","stream"],
