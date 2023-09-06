@@ -3,7 +3,8 @@ the original app was from [gorlev](https://github.com/gorlev/Your-IPTV) and modd
 
 home screen tv.
 
-stremio will load the home screen with live itpv channels
+stremio will load the home screen with live iptv channels
 
 
-![Screenshot 2023-09-02 141332](https://github.com/greg84-hub/iptvmod2/assets/59282468/28bf0f7b-a6a0-4840-a717-bc647dd6a513)
+![Screenshot 2023-09-02 141332](https://github.com/greg84-hub/iptvmod2/assets/59282468/ac0f61ba-43c4-43de-b0c9-90c97f1fe992)
+
